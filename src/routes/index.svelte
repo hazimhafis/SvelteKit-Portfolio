@@ -13,10 +13,10 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo - Main page</title>
+	<title>Hazim Hafis - Main page</title>
 </svelte:head>
 <main>
-	<h1>Hi!✋ <br /> I'm Gianmarco a Front-End Developer 💻 based in Italy</h1>
+	<h1>Hi!✋ <br /> I'm Hazim Hafis, a Front-End Developer 💻 based in Malaysia</h1>
 	<div class="icons">
 		<div
 			on:click={() => {
@@ -29,7 +29,7 @@
 		</div>
 
 		<a
-			href="https://github.com/Ladvace"
+			href="https://github.com/hazimhafis"
 			aria-label="GitHub"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -39,23 +39,13 @@
 			</div>
 		</a>
 		<a
-			href="https://www.linkedin.com/in/ladvace/"
+			href="https://www.linkedin.com/in/hazim-hafis/"
 			aria-label="Linkedin"
 			target="_blank"
 			rel="noopener noreferrer"
 		>
 			<div class="icon">
 				<FaLinkedin />
-			</div>
-		</a>
-		<a
-			href="https://medium.com/@ladvace"
-			aria-label="Medium"
-			target="_blank"
-			rel="noopener noreferrer"
-		>
-			<div class="icon">
-				<FaMedium />
 			</div>
 		</a>
 	</div>
